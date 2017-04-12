@@ -1,0 +1,34 @@
+Usuarios
+
+
+1. Iniciar Sesion
+2. Cerrar Sesion
+3. Registrarse
+4. Darse de Baja
+5. Comprar Credito
+6. Publicar Favor
+7. Despublicar Favor
+8. Comentar publicacion
+9. Postularse Gaucho
+10. Subir Foto Favor
+11. Cambiar Foto Favor
+12. Cambiar Datos personales
+13. Subir Foto Perfil
+14. Cambiar Foto Perfil
+15. Buscar Favor
+16. Buscar Gaucho por Nombre
+17. Buscar Gaucho por Localidad
+18. Modificar Favor (limite de tiempo)
+19. Calificar Gaucho
+20. Ver Mails
+
+Administradores
+
+1. Iniciar Sesion
+2. Cerrar Sesion
+3. Dar de baja usuario
+4. Dar de baja favor
+5. Ver Estadisticas
+(Un monton de funcionalidades respecto estadisticas)
+6. Modificar Clasificacion
+7. Ver Mails
